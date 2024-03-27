@@ -1,1 +1,3 @@
-create the main python file 
+Import streamlit
+
+stramlit.title('My parents new hralthy dinner')
